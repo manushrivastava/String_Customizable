@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">String_Customizable</string>
+    <string name="text_name">String_text_english</string>
+    <string name="button_name">String_button_english</string>
+</resources>

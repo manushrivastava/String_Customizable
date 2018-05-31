@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">String_Customizable</string>
+    <string name="text_name">String_text_italian</string>
+    <string name="button_name">String_Button_italian</string>
+</resources>
